@@ -55,7 +55,7 @@ Additionally, statistical measures such as **Mean** and **Variance** are compute
 
 ---
 
-## 📊 Notebooks (One-Click Access)
+## 📊 Notebooks
 
 ### 🔹 1. Data Analysis
 
