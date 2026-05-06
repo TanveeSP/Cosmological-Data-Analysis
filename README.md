@@ -44,7 +44,7 @@ Additionally, statistical measures such as **Mean** and **Variance** are compute
 │   ├── Datasheet 2.csv
     ├── Datasheet s3.csv
 │
-├── 📁 notebooks
+├── 📁 Notebooks
 │   ├── A7P1.ipynb
 │   ├── A7P2.ipynb
 │   ├── A7P3.ipynb
@@ -72,7 +72,7 @@ Detailed tasks performed:
 * Detecting potential outliers through scatter plots and statistical checks
 
 👉 **Open Notebook:**
-[Click here to view](./notebooks/A7P1.ipynb)
+[Click here to view](./Notebooks/A7P1.ipynb)
 
 ---
 
