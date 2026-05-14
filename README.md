@@ -52,7 +52,7 @@ Additionally, statistical measures such as **Mean** and **Variance** are compute
 ├── README.md
 └── requirements.txt
 ```
-
+> *Run command [pip install -r requirements.txt] before executing any notebook*
 ---
 
 ## 📊 Notebooks
