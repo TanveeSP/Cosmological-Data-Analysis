@@ -42,7 +42,7 @@ Additionally, statistical measures such as **Mean** and **Variance** are compute
 ├── 📁 data
 │   ├── Datasheet 1.csv
 │   ├── Datasheet 2.csv
-    ├── Datasheet s3.csv
+    ├── Datasheet 3.csv
 │
 ├── 📁 Notebooks
 │   ├── A7P1.ipynb
